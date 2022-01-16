@@ -1,2 +1,3 @@
 # Nowe cos tam
-##Nowy rozdzial
+## Nowy rozdzial
+* Omowimy najnowsze trendy w trendach
